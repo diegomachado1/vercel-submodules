@@ -1,11 +1,11 @@
 {
-  "name": "vercel-submodules",
+  "name": "dsm-vercel-submodules",
   "description": "The CLI to handle Private Git Submodules in your Vercel Project",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "type": "module",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "https://github.com/junhoyeo/vercel-submodules",
+  "repository": "https://github.com/diegomachado1/vercel-submodules",
   "author": "Junho Yeo <i@junho.io>",
   "license": "MIT",
   "bin": {
